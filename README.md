@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Martin Diaz</h1>
 <h3 align="center">I'm a electrical engineering graduate with a passion for software development.</h3>
 
-- 🔭 I’m currently working on [Google's IT automation with python course](Test link)
+- 🔭 I’m currently working on [Google's IT automation with python course](https://github.com/MartyDiaz/IT_Automation_Project)
 
 - 🌱 I’m currently learning **Simple DirectMedia Layer for a C++ game engine.**
 
 - 📫 How to reach me **martydiaz01@gmail.com**
 
-- 📄 Know about my experiences [resume test link](resume test link)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/martin-diaz-ee/)
+
+- 📄 School project [Pathfinder](https://www.arxterra.com/news-and-events/members/pathfinder/pathfinder/pathfinder-generations/pathfinder-generation-4/)
 
 
 <h3 align="left">Languages and Tools:</h3>
